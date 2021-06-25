@@ -949,7 +949,7 @@ description = "Tensors and Dynamic neural networks in Python with strong GPU acc
 name = "torch"
 optional = false
 python-versions = "*"
-version = "1.8.0"
+version = "1.2.0"
 
 [package.dependencies]
 future = "*"
